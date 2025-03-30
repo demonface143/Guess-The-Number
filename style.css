@@ -29,6 +29,7 @@ h1{
     font-weight: bold;
     font-family: "Poppins";
     letter-spacing: 1px;
+    color: black
 }
 #submit{
     border: none;
@@ -37,6 +38,7 @@ h1{
     border-radius: 10px;
     font-weight: bold;
     font-family: "Source Code Pro";
+    color: black
 }
 @media only screen and (max-width: 768px){
     body{
